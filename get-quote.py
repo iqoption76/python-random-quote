@@ -1,4 +1,4 @@
-def index():
+def primary():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def index():
   #print(quotes)
 
 if __name__== "__main__":
-  index()
+  primary()
